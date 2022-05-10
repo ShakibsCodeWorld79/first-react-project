@@ -1,0 +1,10 @@
+.Body {
+  text-align: center;
+}
+.Book {
+  text-align: center;
+  margin: 30px auto;
+  width: 400px;
+  padding: 10px;
+  border: 1px solid black;
+}
